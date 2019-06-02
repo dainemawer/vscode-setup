@@ -30,7 +30,7 @@
 #### Font
 ---
 - Fira Code
-[x] Use Font Ligatures
+- [ ] Use Font Ligatures
 
 Best to follow the installation instructions.
 
