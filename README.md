@@ -42,4 +42,4 @@ Best to follow the installation instructions.
 ---
 I try put out tools that I wish had existed when i was just getting started, if you feel like supporting the cause, donate me some :beers:!
 
-[![Beerpay](https://beerpay.io/dainemawer/vscode-setup/badge.svg?style=beer-square)](https://beerpay.io/dainemawer/vscode-setup)  [![Beerpay](https://beerpay.io/dainemawer/vscode-setup/make-wish.svg?style=flat-square)](https://beerpay.io/dainemawer/vscode-setup?focus=wish)
+[![Beerpay](https://beerpay.io/dainemawer/vscode-setup/badge.svg?style=beer-square)](https://beerpay.io/dainemawer/vscode-setup)
