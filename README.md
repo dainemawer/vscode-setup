@@ -4,25 +4,40 @@
 ### 🗃 Extentions
 ---
 
+#### HTML
 - Auto Rename Tag
+
+#### Projects
+- GitLens
+- Project Manager
+
+#### CSS
+- Language PostCSS
+- VS Code Styled Components
+
+#### Linting
+- ESLint
+- EditorConfig for VS Code
+- StyleLint
+
+#### Editor
 - Beautify
 - Colorize
 - Debugger for Chrome
-- EditorConfig for VS Code
-- ESLint
-- GitLens
-- Language PostCSS
-- NPM
-- NPM Intellisense
-- Path Intellisense
-- PHP Intellisense
-- Prettier -  Code Formatter
-- Project Manager
-- React Native Tools
-- Ruby
-- StyleLint
 - VS Code Icons
-- VS Code Styled Components
+- Prettier -  Code Formatter
+
+#### Languages
+- NPM
+- Ruby
+
+#### Intellisense
+- NPM Intellisense
+- PHP Intellisense
+- Path Intellisense
+
+#### React
+- React Native Tools
 
 ### ⚙  Settings
 ---
