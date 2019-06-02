@@ -1,4 +1,4 @@
-# 📦 VSCODE Setup
+# 📦 VS Code Setup
 [VS Code](https://code.visualstudio.com) is the latest code editor on the block, and Front-end Engineers are digging it to say the least. I've come up with a list of the most useful [VS Code](https://code.visualstudio.com) extensions and settings for your convenience.
 
 ### 🗃 Extentions
