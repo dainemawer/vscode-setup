@@ -4,8 +4,35 @@
 ### 🗃 Extentions
 ---
 
+- Auto Rename Tag
+- Beautify
+- Colorize
+- Debugger for Chrome
+- EditorConfig for VS Code
+- ESLint
+- GitLens
+- Language PostCSS
+- NPM
+- NPM Intellisense
+- Path Intellisense
+- PHP Intellisense
+- Prettier -  Code Formatter
+- Project Manager
+- React Native Tools
+- Ruby
+- StyleLint
+- VS Code Icons
+- VS Code Styled Components
+
 ### ⚙  Settings
 ---
+
+#### Font
+---
+- Fira Code
+[x] Use Font Ligatures
+
+Best to follow the installation instructions.
 
 ### 📋 License
 ---
